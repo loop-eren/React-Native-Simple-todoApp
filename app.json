@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "awsome",
-    "slug": "awsome",
+    "name": "Todo App",
+    "slug": "todolist",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/todolistimg.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.looperen.todolist"
     },
     "web": {
       "favicon": "./assets/favicon.png"
